@@ -1,0 +1,2 @@
+# Bhaskara
+exercício bhaskara
